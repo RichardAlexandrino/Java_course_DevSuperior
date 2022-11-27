@@ -1,0 +1,192 @@
+Introduction About Programming:
+	Algorithm
+	Automation
+	Computer program
+	Programming language
+	Lexicon
+	syntactic
+	IDE: Integrated Development Environment
+	Compilation and interpretation
+	Source and object code
+	Virtual machine
+
+Introduction to the Java Language:
+	Java Versions
+	Java contextualization
+	Structure of a Java application
+	Installing Java and Eclipse
+	First program and basic use
+
+Sequential Structure:
+	Arithmetic expressions
+	Variables and primitive types in Java
+	Camel case pattern
+	The three basic operations of programming
+	Data output in Java
+	Data processing in Java, casting
+	Data entry in Java
+	Math functions in Java
+
+Conditional Structure:
+	Comparative expressions
+	Logical expressions
+	Cumulative assignment operators
+	Switch-Case structure
+	Ternary conditional expression
+	Scope and initialization
+
+Repetitive Structures:
+	How to use debug in Eclipse
+	while
+	For
+	Do-While
+
+Other Basic Topics About Java:
+	Restrictions and naming conventions
+	Bitwise operators
+	Interesting functions for String
+	Comments in Java
+	Functions
+
+Classes, Attributes, Methods, Static Members:
+	Solving a non-Object oriented problem
+	Creating a class with three attributes to better represent the triangle
+	Creating a method to get the benefits of reuse and delegation
+	Starting to solve a second example problem
+	Object and toString
+	Finishing the program
+	Static members
+
+Constructors, this word, overloading, encapsulation:
+	Builders
+	Word this
+	Overload
+	Encapsulation
+	Automatically generating constructors, getters, and setters with Eclipse
+	Access modifiers
+
+Memory Behavior, Arrays, Lists:
+	Reference types vs. value types
+	Memory deallocation - garbage collector and local scope
+	Vectors
+	Boxing, unboxing and wrapper classes
+	"For each" loop
+	Lists
+	Matrices
+
+Special Topics in Java:
+	Gives you
+	Manipulating a date with Calendar
+
+Working with Datetime:
+	Important concepts
+	When to use?
+	Timezone
+	Important date-time operations
+	Good practice: store UTC, show locale
+
+Git and Github:
+	Overview of Git and Github
+	Remote and local repository
+	Installing Git on the computer
+	Setting your ID in Git
+	Save first version of a project on Github
+	Save a new version
+	Checking version history
+	Git status, git add and stage
+	git diff
+	git checkout
+	.gitignore file
+	How to remove files from the stage area
+	How to undo unsaved changes
+	What to do when open the VIM editor
+	How to undo the last commit
+	How to delete commits and also file modifications
+	How to update local repository versus remote
+	How to resolve push rejected
+	Resolving conflict
+	How to overwrite a history on Github
+	How to point project to another remote repository
+
+Enumerations, Composition:
+	Enumerations
+	A little design
+	Composition
+
+Inheritance and Polymorphism:
+	Heritage
+	Upcasting and downcasting
+	Override, word super, @Override annotation
+	Final classes and methods
+	Introduction to polymorphism
+	Abstract classes
+	Abstract methods
+
+Exception Handling:
+	Initial discussion on exceptions
+	Try-catch structure
+	Method call stack
+	Finally block
+	Creating custom exceptions
+
+Chess Game System Project
+
+Working with Files:
+	Reading text file with File and Scanner classes
+	FileReader and BufferedReader
+	Try-with-resources block
+	FileWriter and BufferedWriter
+	Manipulating folders with File
+	File path information
+
+Interfaces:
+	Inversion of Control, dependency injection
+	Inherit vs. fulfill contract
+	Multiple Inheritance and the diamond Problem
+	Comparable interface
+	Default methods
+
+Generics, Set, Map:
+	Introduction to Generics
+	Delimited generics
+	Wildcard types
+	Bounded wildcards
+	HashCode and equals
+	Set
+	How does Set test equality?
+	How does TreeSet compare elements?
+	Map
+
+Functional Programming and Lambda Expressions:
+	An experience with Comparator
+	Functional programming and lambda calculus
+	functional interface
+	Predicate (example with removeIf)
+	Consumer (example with forEach)
+	Function (example with map)
+	Creating functions that take functions as arguments
+	Stream	
+	Pipeline (demo)
+
+Database Access with JDBC:
+	JDBC overview
+	Installation of MySQL Server and MySQL Workbench
+	Recover data
+	Enter data
+	Update data
+	Delete data
+	Transactions
+	DAO (Data Access Object) design pattern
+	Creating project and git repository
+	Department entity class
+	Seller entity class
+	DepartmentDao and SellerDao interfaces
+	SellerDaoJDBC and DaoFactory
+	FindById implementation
+	Reusing instantiation
+	FindByDepartment implementation
+	FindAll implementation
+	Insert implementation
+	Update implementation
+	Delete implementation
+	DepartmentDao implementation and test
